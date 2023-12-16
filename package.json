@@ -1,5 +1,5 @@
 {
-  "name": "Scallable Chat App",
+  "name": "ScalableChatApp",
   "private": true,
   "scripts": {
     "build": "turbo build",
